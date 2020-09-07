@@ -1,5 +1,7 @@
 # Dustbin_Telegram_Alert
 
+Dustbin Telegram Alert is developed in Arduino sketch which utilizes nodeMCU to push an alert messege to telegram bot. It is used to detect the presence of dust inside the dustbin. Once the dustbin is filled, it will send an alert message to telegram bot. It utilizes ultrasonic sensor to detect the dust inside the dustbin and nodeMCU to push an alert message to the telegram bot. 
+
 Before executing "TelegramAlert.ino" code , make sure that the "TelegramBot-Library-master.zip" is downloaded. It is a library file used to push and pull the messages in telegram. After downloading the "TelegramBot-Library-master.zip", you need to add it to your arduino library. 
 
 Follow the steps below to add it to your arduino library :
