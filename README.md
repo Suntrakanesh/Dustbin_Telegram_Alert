@@ -4,7 +4,7 @@ Dustbin Telegram Alert is developed in Arduino sketch which utilizes nodeMCU to 
 
 Before executing "TelegramAlert.ino" code , make sure that the "TelegramBot-Library-master.zip" is downloaded. It is a library file used to push and pull the messages in telegram. After downloading the "TelegramBot-Library-master.zip", you need to add it to your arduino library. 
 
-# Follow the steps below to add it to your arduino library :
+Follow the steps below to add it to your arduino library :
 
 1. Open Arduino IDE
 2. Click "Sketch" tab at top of the screen
