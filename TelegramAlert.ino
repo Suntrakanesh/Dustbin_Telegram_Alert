@@ -13,7 +13,7 @@ int distance;
 const char* ssid = "<Your WiFi Name or SSID>"; //Enter the WiFi name where you need to connect
 const char* password = "<Your WiFi Password>"; //Enter the password as well
 
-const char BotToken[] = "978892373:AAHBH3TJsS5loT6mHEfw7wS79M_wO4Rp1C4"; //Bot token which is the token used to send alert message in telegram
+const char BotToken[] = "<Enter the token which you got using bot father>"; //Bot token which is the token used to send alert message in telegram
 
 WiFiClientSecure net_ssl;
 TelegramBot bot (BotToken, net_ssl);
