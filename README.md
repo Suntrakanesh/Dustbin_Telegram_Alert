@@ -16,3 +16,9 @@ Before executing "TelegramAlert.ino" code , make sure that the "TelegramBot-Libr
 
 Once the process is completed, you can execute "TelegramAlert.ino" in IDE.
 
+## Things to note in the arduino sketch
+
+ 1. SSID - Here, you need to enter your wifi name or SSID in arduino sketch before it get to be executed
+ 2. Password - Following with SSID, you need to enter your wifi password as well in the arduino sketch
+ 3. Bot Token - Bot Token is a unique ID by which the nodeMCU can access the telegram bot
+
